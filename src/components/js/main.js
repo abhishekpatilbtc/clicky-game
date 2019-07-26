@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-// import cartoons from "../../cartoons.json";
-
 
 class Main extends Component {
  

@@ -1,0 +1,31 @@
+
+/* elements */
+nav {
+    background-color: #5133a4;
+}
+
+img {
+    max-height: 200px;
+    min-height: 150px;
+    max-width: 200px;
+    min-width: 150px;
+    object-fit: cover;
+}
+
+.nav-item {
+    color: white;
+    font-size:30px;
+}
+
+#nav {
+    display: table;
+    width: 100%;
+}
+
+#nav li {
+    display: table-cell;
+}
+#overwrite-navbar-brand {
+    color: white;
+    font-weight: bolder;
+}
