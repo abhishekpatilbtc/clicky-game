@@ -7,7 +7,7 @@ class Footer extends Component{
             <footer className="footer">
                 <div className="bottom">
                     Clicky Game!
-                    <img alt="react" src={reactimage} />
+                    {/* <img alt="react" src={reactimage} /> */}
                 </div>
             </footer>
         )

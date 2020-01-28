@@ -1,7 +1,26 @@
 
 /* elements */
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+
+
+body {
+    background-image: url("../../assets/images/cartoons.jpg");
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+
 nav {
-    background-color: #5133a4;
+    background-color: #EC1D24;
+    
 }
 
 img {
@@ -16,19 +35,28 @@ img {
 }
 
 .nav-item {
-    color: white;
+    color: #FEFEFE;
     font-size:30px;
+    font-family: 'Marvel', sans-serif;
 }
 
 #nav {
     display: table;
     width: 100%;
+    
+  
 }
 
 #nav li {
     display: table-cell;
+    font-family: 'Marvel', sans-serif;
 }
 #overwrite-navbar-brand {
     color: white;
     font-weight: bolder;
+}
+
+h1,p {
+    font-family: 'Marvel', sans-serif;
+    padding-left: 40px;
 }
