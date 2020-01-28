@@ -84,7 +84,7 @@ class App extends Component {
                     // name={cartoons.name}
                     // image={cartoons.image}
                 />
-                <Footer />
+                {/* <Footer /> */}
             </div>
         )
     }

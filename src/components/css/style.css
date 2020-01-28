@@ -5,11 +5,14 @@ nav {
 }
 
 img {
-    max-height: 200px;
+    max-height: 215px;
     min-height: 150px;
-    max-width: 200px;
+    max-width: 350px;
     min-width: 150px;
     object-fit: cover;
+    padding: 30px;
+    float: left;
+   
 }
 
 .nav-item {

@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import reactimage from "../../assets/images/react.svg";
 
-
 class Footer extends Component{
     render(){
         return (
