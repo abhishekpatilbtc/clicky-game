@@ -35,7 +35,7 @@ img {
 }
 
 .nav-item {
-    color: #FEFEFE;
+    color: #FADFB2;
     font-size:30px;
     font-family: 'Marvel', sans-serif;
 
@@ -53,12 +53,13 @@ img {
     font-family: 'Marvel', sans-serif;
 }
 #overwrite-navbar-brand {
-    color: white;
+    color: #FADFB2;
     font-weight: bolder;
 }
 
-h1,p {
+p {
     font-family: 'Marvel', sans-serif;
     padding-left: 40px;
     color: #FADFB2;
+    font-size: large;
 }
