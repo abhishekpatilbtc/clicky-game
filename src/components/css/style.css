@@ -9,10 +9,10 @@
 
 
 body {
-    background-image: url("../../assets/images/cartoons.jpg");
+    background-image: url("../../assets/images/52166.jpg");
     /* background-size: cover; */
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-size: cover;
 
 
@@ -38,6 +38,7 @@ img {
     color: #FEFEFE;
     font-size:30px;
     font-family: 'Marvel', sans-serif;
+
 }
 
 #nav {
@@ -59,4 +60,5 @@ img {
 h1,p {
     font-family: 'Marvel', sans-serif;
     padding-left: 40px;
+    color: #FADFB2;
 }
